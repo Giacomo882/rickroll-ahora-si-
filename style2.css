@@ -49,8 +49,8 @@ header > h1 {
 
 }
 
-#homePage:hover{
-    cursor: pointer;
+#homePage :hover{
+    cursor: url('cursor.cur'), auto;
 }
 
 video{
