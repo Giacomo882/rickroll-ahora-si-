@@ -50,7 +50,7 @@ header > h1 {
 }
 
 #button-container :hover{
-    cursor: url('cursor.cur'), auto;
+    cursor: url("cursor.cur"), auto;
 }
 
 video{
