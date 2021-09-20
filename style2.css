@@ -49,7 +49,7 @@ header > h1 {
 
 }
 
-#homePage :hover{
+#button-container :hover{
     cursor: url('cursor.cur'), auto;
 }
 
